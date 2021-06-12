@@ -10,7 +10,7 @@ In this project, we aim to build a CNN architecture which gives higher accuracy 
 •	Use two different datasets, having different number of images in order to compare which dataset gives higher accuracy<br/>
 •	For the given image, predict the class<br/>
 
-<b>Datasets</b>
+<b>Datasets</b><br/>
 Downloaded from Kaggle<br/>
 Small Dataset - 253 total images with 155 positive and 98 negative<br/>
 After Augmentation 2064 total images with 1085 positive and 979 negative<br/>
